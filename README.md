@@ -1,0 +1,2 @@
+# fram.lua
+auto
